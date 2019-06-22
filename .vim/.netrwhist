@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/stephen/dev/developmentRoadmap'
+let g:netrw_dirhist_2='/home/stephen/dev/solarSystemWallpaper'
+let g:netrw_dirhist_3='/home/stephen/dev'
+let g:netrw_dirhist_4='/home/stephen/dev/solarSystemWallpaper'
